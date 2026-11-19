@@ -1,0 +1,42 @@
+<h1>This is alissa's lilte page!</h1>
+
+
+<head>
+    <meta charest="UTF-8">
+<meta name="viewport"content="wideth=device-width, intial-scale=1.0">
+
+<style>
+    /* css will go here */
+    h1 {
+        color:cadetblue
+        background-color:darkred
+    }
+
+    body {
+        background-color: aqua;
+    }
+
+    p {
+        border: dashed red
+    }
+
+    #paraone {
+        background-color: greenyellow
+    }
+</style>
+</head>
+
+
+<body>
+    <h1>hi alissa</h1>
+    <a href="">Adopt a dog here!</a>
+
+    <hr>
+    <script>
+
+
+
+    </script>
+</body>
+
+<html></html>
